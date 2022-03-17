@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     <h4 align="left"> 
       Olá! Meu nome é Anderson Oliva e estou me qualificando para me tornar um excelente<strong> desenvolvedor front-end</strong>.
-    </h4> 
-    <p align="left" >Conheci a programação através do marketing digital em outubro de 2021 quando me deparei com a necessidade de desenvolver uma landing page para um afiliado de info produto.</p>
-    <p align="left">Na época eu não entendia nada de programação e apenas clonava as páginas dos produtores sem fazer nenhum tipo de alteração. Apenas trocava o link de afiliado. Mas com o tempo percebi que a programação é uma oportunidade de seguir carreira e não parei mais de estudar.</p>
+    </h4>
     <p align="left">No momento estou dividindo o meu tempo de estudos com o trabalho de gestor de tráfego, mas busco uma oportunidade para trabalhar full time como desenvolvedor.</p>
         
 <p align="left">
