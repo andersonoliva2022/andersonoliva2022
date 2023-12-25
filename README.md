@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     <h4 align="left"> 
-      Olá! Meu nome é Anderson Oliva e sou um<strong> estudante de programação</strong.
+      Olá! Meu nome é Anderson Oliva e sou um<strong> estudante de programação.</strong.
     </h4>
     <p align="left">No momento estou em transição de carreira e aprendendo novas tecnologias.</p>
 
