@@ -2,7 +2,7 @@
     <h4 align="left"> 
       Olá! Meu nome é Anderson Oliva e sou um<strong> estudante de programação</strong.
     </h4>
-    <p align="left">No momento estou dividindo o meu tempo de estudos com o trabalho, mas busco uma oportunidade para trabalhar full time com programação.</p>
+    <p align="left">No momento estou em transição de carreira e aprendendo novas tecnologias.</p>
 
 ## **Linguagens e Ferramentas:**  
 
