@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
     <h4 align="left"> 
-      Olá! Meu nome é Anderson Oliva e sou um<strong> desenvolvedor front-end</strong>.
+      Olá! Meu nome é Anderson Oliva e sou um<strong> estudante de programação</strong.
     </h4>
-    <p align="left">No momento estou dividindo o meu tempo de estudos com o trabalho de gestor de tráfego, mas busco uma oportunidade para trabalhar full time como desenvolvedor.</p>
+    <p align="left">No momento estou dividindo o meu tempo de estudos com o trabalho, mas busco uma oportunidade para trabalhar full time com programação.</p>
 
 ## **Linguagens e Ferramentas:**  
 
